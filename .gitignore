@@ -1,0 +1,15 @@
+runtime/
+private-prerequisites/
+vendor/*.zip
+vendor/*.ipa
+__pycache__/
+*.pyc
+*.log
+config.json
+config.previous.json
+processes.json
+viewer-process.json
+diagnostics-local.json
+*.p12
+*.mobileprovision
+*.pem

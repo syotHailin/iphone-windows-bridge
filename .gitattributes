@@ -1,0 +1,2 @@
+# Keep recorded SHA-256 values valid across Git checkouts on Windows.
+* -text

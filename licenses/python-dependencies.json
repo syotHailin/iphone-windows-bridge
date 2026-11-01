@@ -1,0 +1,728 @@
+[
+  {
+    "name": "aiofiles",
+    "version": "25.1.0",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/aiofiles/25.1.0/",
+    "copyleft": false
+  },
+  {
+    "name": "aiohappyeyeballs",
+    "version": "2.7.1",
+    "license": "PSF-2.0",
+    "pypi": "https://pypi.org/project/aiohappyeyeballs/2.7.1/",
+    "copyleft": false
+  },
+  {
+    "name": "aiohttp",
+    "version": "3.14.5",
+    "license": "Apache-2.0 AND MIT",
+    "pypi": "https://pypi.org/project/aiohttp/3.14.5/",
+    "copyleft": false
+  },
+  {
+    "name": "aiosignal",
+    "version": "1.4.0",
+    "license": "Apache 2.0",
+    "pypi": "https://pypi.org/project/aiosignal/1.4.0/",
+    "copyleft": false
+  },
+  {
+    "name": "annotated-doc",
+    "version": "0.0.5",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/annotated-doc/0.0.5/",
+    "copyleft": false
+  },
+  {
+    "name": "annotated-types",
+    "version": "0.8.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/annotated-types/0.8.0/",
+    "copyleft": false
+  },
+  {
+    "name": "ansilogs",
+    "version": "1.1.0",
+    "license": "MIT License",
+    "pypi": "https://pypi.org/project/ansilogs/1.1.0/",
+    "copyleft": false
+  },
+  {
+    "name": "anyio",
+    "version": "4.16.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/anyio/4.16.0/",
+    "copyleft": false
+  },
+  {
+    "name": "arrow",
+    "version": "1.4.0",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/arrow/1.4.0/",
+    "copyleft": false
+  },
+  {
+    "name": "ASGIMiddlewareStaticFile",
+    "version": "0.7.0",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/ASGIMiddlewareStaticFile/0.7.0/",
+    "copyleft": false
+  },
+  {
+    "name": "asgiref",
+    "version": "3.13.0",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/asgiref/3.13.0/",
+    "copyleft": false
+  },
+  {
+    "name": "ASGIWebDAV",
+    "version": "2.1.0",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/ASGIWebDAV/2.1.0/",
+    "copyleft": false
+  },
+  {
+    "name": "asn1",
+    "version": "2.8.0",
+    "license": "BSD",
+    "pypi": "https://pypi.org/project/asn1/2.8.0/",
+    "copyleft": false
+  },
+  {
+    "name": "asttokens",
+    "version": "3.0.2",
+    "license": "Apache 2.0",
+    "pypi": "https://pypi.org/project/asttokens/3.0.2/",
+    "copyleft": false
+  },
+  {
+    "name": "attrs",
+    "version": "26.1.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/attrs/26.1.0/",
+    "copyleft": false
+  },
+  {
+    "name": "av",
+    "version": "19.0.2",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/av/19.0.2/",
+    "copyleft": false
+  },
+  {
+    "name": "backports.zstd",
+    "version": "1.8.0",
+    "license": "PSF-2.0",
+    "pypi": "https://pypi.org/project/backports.zstd/1.8.0/",
+    "copyleft": false
+  },
+  {
+    "name": "bpylist2",
+    "version": "4.1.1",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/bpylist2/4.1.1/",
+    "copyleft": false
+  },
+  {
+    "name": "bytestruct",
+    "version": "0.2.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/bytestruct/0.2.0/",
+    "copyleft": false
+  },
+  {
+    "name": "certifi",
+    "version": "2026.10.23",
+    "license": "MPL-2.0",
+    "pypi": "https://pypi.org/project/certifi/2026.10.23/",
+    "copyleft": false
+  },
+  {
+    "name": "cffi",
+    "version": "2.1.1",
+    "license": "MIT-0",
+    "pypi": "https://pypi.org/project/cffi/2.1.1/",
+    "copyleft": false
+  },
+  {
+    "name": "chardet",
+    "version": "7.7.0",
+    "license": "0BSD",
+    "pypi": "https://pypi.org/project/chardet/7.7.0/",
+    "copyleft": false
+  },
+  {
+    "name": "charset-normalizer",
+    "version": "3.5.2",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/charset-normalizer/3.5.2/",
+    "copyleft": false
+  },
+  {
+    "name": "click",
+    "version": "8.5.0",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/click/8.5.0/",
+    "copyleft": false
+  },
+  {
+    "name": "colorama",
+    "version": "0.4.6",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/colorama/0.4.6/",
+    "copyleft": false
+  },
+  {
+    "name": "construct",
+    "version": "2.10.70",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/construct/2.10.70/",
+    "copyleft": false
+  },
+  {
+    "name": "cryptography",
+    "version": "50.0.2",
+    "license": "Apache-2.0 OR BSD-3-Clause",
+    "pypi": "https://pypi.org/project/cryptography/50.0.2/",
+    "copyleft": false
+  },
+  {
+    "name": "daemonize",
+    "version": "2.5.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/daemonize/2.5.0/",
+    "copyleft": false
+  },
+  {
+    "name": "dataclass-wizard",
+    "version": "1.0.0",
+    "license": "Apache Software License 2.0",
+    "pypi": "https://pypi.org/project/dataclass-wizard/1.0.0/",
+    "copyleft": false
+  },
+  {
+    "name": "defusedxml",
+    "version": "0.7.1",
+    "license": "PSFL",
+    "pypi": "https://pypi.org/project/defusedxml/0.7.1/",
+    "copyleft": false
+  },
+  {
+    "name": "developer_disk_image",
+    "version": "0.3.0",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/developer_disk_image/0.3.0/",
+    "copyleft": false
+  },
+  {
+    "name": "enum-compat",
+    "version": "0.0.3",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/enum-compat/0.0.3/",
+    "copyleft": false
+  },
+  {
+    "name": "executing",
+    "version": "2.3.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/executing/2.3.0/",
+    "copyleft": false
+  },
+  {
+    "name": "fastapi",
+    "version": "0.162.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/fastapi/0.162.0/",
+    "copyleft": false
+  },
+  {
+    "name": "frozenlist",
+    "version": "1.8.0",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/frozenlist/1.8.0/",
+    "copyleft": false
+  },
+  {
+    "name": "h11",
+    "version": "0.16.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/h11/0.16.0/",
+    "copyleft": false
+  },
+  {
+    "name": "hyperframe",
+    "version": "6.1.0",
+    "license": "The MIT License (MIT)",
+    "pypi": "https://pypi.org/project/hyperframe/6.1.0/",
+    "copyleft": false
+  },
+  {
+    "name": "idna",
+    "version": "3.20",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/idna/3.20/",
+    "copyleft": false
+  },
+  {
+    "name": "ifaddr",
+    "version": "0.2.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/ifaddr/0.2.0/",
+    "copyleft": false
+  },
+  {
+    "name": "ipsw-parser",
+    "version": "1.9.0",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "pypi": "https://pypi.org/project/ipsw-parser/1.9.0/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/ipsw_parser-1.9.0.tar.gz",
+    "source_sha256": "4b2f355e0abd307458af4963f9d3aca4d4ab2d73a5f7100d59c000427e444109",
+    "source_url": "https://files.pythonhosted.org/packages/67/ca/3e29f8351ee71e31bc6ac67bfbe24405d84863416751fbf58c5385ad7e5c/ipsw_parser-1.9.0.tar.gz"
+  },
+  {
+    "name": "ipython",
+    "version": "9.18.0",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/ipython/9.18.0/",
+    "copyleft": false
+  },
+  {
+    "name": "ipython_pygments_lexers",
+    "version": "1.1.1",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/ipython_pygments_lexers/1.1.1/",
+    "copyleft": false
+  },
+  {
+    "name": "jedi",
+    "version": "0.20.1",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/jedi/0.20.1/",
+    "copyleft": false
+  },
+  {
+    "name": "lzfse",
+    "version": "0.4.2.post1",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/lzfse/0.4.2.post1/",
+    "copyleft": false
+  },
+  {
+    "name": "markdown-it-py",
+    "version": "4.2.0",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/markdown-it-py/4.2.0/",
+    "copyleft": false
+  },
+  {
+    "name": "matplotlib-inline",
+    "version": "0.2.2",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/matplotlib-inline/0.2.2/",
+    "copyleft": false
+  },
+  {
+    "name": "mdurl",
+    "version": "0.1.2",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/mdurl/0.1.2/",
+    "copyleft": false
+  },
+  {
+    "name": "multidict",
+    "version": "7.2.1",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/multidict/7.2.1/",
+    "copyleft": false
+  },
+  {
+    "name": "opack2",
+    "version": "0.2.0",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "pypi": "https://pypi.org/project/opack2/0.2.0/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/opack2-0.2.0.tar.gz",
+    "source_sha256": "997ab3fe4540610f10c8072a34fa69246c229b5e2bbf3f383cbe6f2884cbf1a4",
+    "source_url": "https://files.pythonhosted.org/packages/22/02/f79f07f275aadb157361cc977629975ee936572140ce3a33715dbd6fc08e/opack2-0.2.0.tar.gz"
+  },
+  {
+    "name": "opentelemetry-api",
+    "version": "1.45.2",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/opentelemetry-api/1.45.2/",
+    "copyleft": false
+  },
+  {
+    "name": "packaging",
+    "version": "26.3",
+    "license": "Apache-2.0 OR BSD-2-Clause",
+    "pypi": "https://pypi.org/project/packaging/26.3/",
+    "copyleft": false
+  },
+  {
+    "name": "parso",
+    "version": "0.8.7",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/parso/0.8.7/",
+    "copyleft": false
+  },
+  {
+    "name": "pillow",
+    "version": "13.0.0",
+    "license": "MIT-CMU",
+    "pypi": "https://pypi.org/project/pillow/13.0.0/",
+    "copyleft": false
+  },
+  {
+    "name": "pip",
+    "version": "26.2.2",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/pip/26.2.2/",
+    "copyleft": false
+  },
+  {
+    "name": "pmd-net-addr",
+    "version": "0.0.3",
+    "license": "GPL-3.0-or-later",
+    "pypi": "https://pypi.org/project/pmd-net-addr/0.0.3/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pmd_net_addr-0.0.3.tar.gz",
+    "source_sha256": "1b0fcb3b77f30076237360eb4cf0243483278a2650fd4a194985cc69b1de07e5",
+    "source_url": "https://files.pythonhosted.org/packages/ce/bb/e24ffb9af4243050b54fbaf08393879456f1bd98996b66c6df509106ad2b/pmd_net_addr-0.0.3.tar.gz"
+  },
+  {
+    "name": "pmd-net-proto",
+    "version": "0.0.3",
+    "license": "GPL-3.0-or-later",
+    "pypi": "https://pypi.org/project/pmd-net-proto/0.0.3/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pmd_net_proto-0.0.3.tar.gz",
+    "source_sha256": "e23d7d68cd13399ff2bf0613f9756e221ead6fd54010cf85186c2ab650631cd7",
+    "source_url": "https://files.pythonhosted.org/packages/59/ec/eed1b9570cec3e30b993dee84fa5d16be3399189ffce8c0b46373727d20e/pmd_net_proto-0.0.3.tar.gz"
+  },
+  {
+    "name": "pmd-pytcp",
+    "version": "0.3.8",
+    "license": "GPL-3.0-or-later",
+    "pypi": "https://pypi.org/project/pmd-pytcp/0.3.8/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pmd_pytcp-0.3.8.tar.gz",
+    "source_sha256": "a26e76e735a04bb6bbcec0793aadcd4f20f03778fd29971a3e2747ce394e9795",
+    "source_url": "https://files.pythonhosted.org/packages/f8/74/e9a79796df33932558913d309fba9015080c4e241cdb61e6280421db4be7/pmd_pytcp-0.3.8.tar.gz"
+  },
+  {
+    "name": "prompt_toolkit",
+    "version": "3.0.53",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/prompt_toolkit/3.0.53/",
+    "copyleft": false
+  },
+  {
+    "name": "propcache",
+    "version": "0.5.4",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/propcache/0.5.4/",
+    "copyleft": false
+  },
+  {
+    "name": "psutil",
+    "version": "7.2.2",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/psutil/7.2.2/",
+    "copyleft": false
+  },
+  {
+    "name": "pure_eval",
+    "version": "0.2.4",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/pure_eval/0.2.4/",
+    "copyleft": false
+  },
+  {
+    "name": "pycparser",
+    "version": "3.12",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/pycparser/3.12/",
+    "copyleft": false
+  },
+  {
+    "name": "pycrashreport",
+    "version": "2.0.0",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "pypi": "https://pypi.org/project/pycrashreport/2.0.0/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pycrashreport-2.0.0.tar.gz",
+    "source_sha256": "31d5e32faa3a047fe01e923bde3eaf1ec86b23e264babf2fc8f7b61fe4812342",
+    "source_url": "https://files.pythonhosted.org/packages/aa/9c/1e1c2d84f746972cbe4d5e65f816008c64e427fc680f55115aa313683c23/pycrashreport-2.0.0.tar.gz"
+  },
+  {
+    "name": "pycryptodome",
+    "version": "4.2.0",
+    "license": "BSD-2-Clause AND Unlicense AND MIT",
+    "pypi": "https://pypi.org/project/pycryptodome/4.2.0/",
+    "copyleft": false
+  },
+  {
+    "name": "pydantic",
+    "version": "2.14.2",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/pydantic/2.14.2/",
+    "copyleft": false
+  },
+  {
+    "name": "pydantic_core",
+    "version": "2.50.2",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/pydantic_core/2.50.2/",
+    "copyleft": false
+  },
+  {
+    "name": "Pygments",
+    "version": "2.21.0",
+    "license": "BSD-2-Clause",
+    "pypi": "https://pypi.org/project/Pygments/2.21.0/",
+    "copyleft": false
+  },
+  {
+    "name": "pygnuutils",
+    "version": "0.1.1",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "pypi": "https://pypi.org/project/pygnuutils/0.1.1/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pygnuutils-0.1.1.tar.gz",
+    "source_sha256": "51ab4f27deb59102b7a04192f7585ff2b3a9de03739982f0b19d3cd4d16bea76",
+    "source_url": "https://files.pythonhosted.org/packages/03/20/6a828fe03d6586241b824ee06c7da854ea351716006a62fd2548eaa5710b/pygnuutils-0.1.1.tar.gz"
+  },
+  {
+    "name": "pyimg4",
+    "version": "0.8.9",
+    "license": "MIT License",
+    "pypi": "https://pypi.org/project/pyimg4/0.8.9/",
+    "copyleft": false
+  },
+  {
+    "name": "pyiosbackup",
+    "version": "0.2.4",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "pypi": "https://pypi.org/project/pyiosbackup/0.2.4/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pyiosbackup-0.2.4.tar.gz",
+    "source_sha256": "10b4d2a11c9bedc93a5467cad3addbe18bc2dc434156920e7223226ed4d0beb7",
+    "source_url": "https://files.pythonhosted.org/packages/46/ab/c7c3caf6785ced43d02c8c37be3c84720c40d6a9b237eb2ff560af4114e1/pyiosbackup-0.2.4.tar.gz"
+  },
+  {
+    "name": "pykdebugparser",
+    "version": "1.10.0",
+    "license": "MIT License",
+    "pypi": "https://pypi.org/project/pykdebugparser/1.10.0/",
+    "copyleft": false
+  },
+  {
+    "name": "pylzss",
+    "version": "0.3.9",
+    "license": "LGPL-3.0-only",
+    "pypi": "https://pypi.org/project/pylzss/0.3.9/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pylzss-0.3.9.tar.gz",
+    "source_sha256": "4a8c9922deceab516c4139627690dbffa59aa7b336c9a7364a8c48154790e86b",
+    "source_url": "https://files.pythonhosted.org/packages/95/fa/3f003112e5e183c70304e2c15fe4517621026d3b71e61088d4ed38ecdce4/pylzss-0.3.9.tar.gz"
+  },
+  {
+    "name": "pymobiledevice3",
+    "version": "11.49.1",
+    "license": "GPL-3.0-or-later",
+    "pypi": "https://pypi.org/project/pymobiledevice3/11.49.1/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/pymobiledevice3-11.49.1.tar.gz",
+    "source_sha256": "5637941773c00904298589f3e048db09ba440ace593eb151d6aaba14c1ed6081",
+    "source_url": "https://files.pythonhosted.org/packages/5a/c5/9e0c340a216e8f7d0f58900d93ca35d18f925dd5e03ebb12ce3f9de27c6d/pymobiledevice3-11.49.1.tar.gz"
+  },
+  {
+    "name": "python-dateutil",
+    "version": "4.0.0",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/python-dateutil/4.0.0/",
+    "copyleft": false
+  },
+  {
+    "name": "python-dotenv",
+    "version": "1.2.4",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/python-dotenv/1.2.4/",
+    "copyleft": false
+  },
+  {
+    "name": "python-pcapng",
+    "version": "2.1.1",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/python-pcapng/2.1.1/",
+    "copyleft": false
+  },
+  {
+    "name": "pytun-pmd3",
+    "version": "3.0.3",
+    "license": "Copyright (c) 2011, montag451.",
+    "pypi": "https://pypi.org/project/pytun-pmd3/3.0.3/",
+    "copyleft": false
+  },
+  {
+    "name": "pywin32",
+    "version": "312",
+    "license": "PSF",
+    "pypi": "https://pypi.org/project/pywin32/312/",
+    "copyleft": false
+  },
+  {
+    "name": "qh3",
+    "version": "1.9.4",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/qh3/1.9.4/",
+    "copyleft": false
+  },
+  {
+    "name": "questionary",
+    "version": "2.1.1",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/questionary/2.1.1/",
+    "copyleft": false
+  },
+  {
+    "name": "remotezip2",
+    "version": "0.0.2",
+    "license": "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007",
+    "pypi": "https://pypi.org/project/remotezip2/0.0.2/",
+    "copyleft": true,
+    "source_file": "vendor/corresponding-source/remotezip2-0.0.2.tar.gz",
+    "source_sha256": "db38fb14d0c297af6da8756808bb25f9d3b2c23c7639a14f7a74794b2fc9a261",
+    "source_url": "https://files.pythonhosted.org/packages/3f/47/94335875a4d5339f64943c1a68900f59a91ad987ab8fcd8e5201839e7cc5/remotezip2-0.0.2.tar.gz"
+  },
+  {
+    "name": "requests",
+    "version": "2.34.2",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/requests/2.34.2/",
+    "copyleft": false
+  },
+  {
+    "name": "rich",
+    "version": "15.0.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/rich/15.0.0/",
+    "copyleft": false
+  },
+  {
+    "name": "shellingham",
+    "version": "1.5.4",
+    "license": "ISC License",
+    "pypi": "https://pypi.org/project/shellingham/1.5.4/",
+    "copyleft": false
+  },
+  {
+    "name": "stack-data",
+    "version": "0.6.3",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/stack-data/0.6.3/",
+    "copyleft": false
+  },
+  {
+    "name": "starlette",
+    "version": "1.10.0",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/starlette/1.10.0/",
+    "copyleft": false
+  },
+  {
+    "name": "termcolor",
+    "version": "3.3.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/termcolor/3.3.0/",
+    "copyleft": false
+  },
+  {
+    "name": "traitlets",
+    "version": "5.16.1",
+    "license": "BSD 3-Clause License",
+    "pypi": "https://pypi.org/project/traitlets/5.16.1/",
+    "copyleft": false
+  },
+  {
+    "name": "typer",
+    "version": "0.27.3",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/typer/0.27.3/",
+    "copyleft": false
+  },
+  {
+    "name": "typer-injector",
+    "version": "0.3.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/typer-injector/0.3.0/",
+    "copyleft": false
+  },
+  {
+    "name": "typing-inspection",
+    "version": "0.4.4",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/typing-inspection/0.4.4/",
+    "copyleft": false
+  },
+  {
+    "name": "typing_extensions",
+    "version": "4.16.0",
+    "license": "PSF-2.0",
+    "pypi": "https://pypi.org/project/typing_extensions/4.16.0/",
+    "copyleft": false
+  },
+  {
+    "name": "tzdata",
+    "version": "2026.6",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/tzdata/2026.6/",
+    "copyleft": false
+  },
+  {
+    "name": "urllib3",
+    "version": "2.8.0",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/urllib3/2.8.0/",
+    "copyleft": false
+  },
+  {
+    "name": "uvicorn",
+    "version": "0.54.0",
+    "license": "BSD-3-Clause",
+    "pypi": "https://pypi.org/project/uvicorn/0.54.0/",
+    "copyleft": false
+  },
+  {
+    "name": "wcwidth",
+    "version": "0.9.4",
+    "license": "Unspecified",
+    "pypi": "https://pypi.org/project/wcwidth/0.9.4/",
+    "copyleft": false
+  },
+  {
+    "name": "wsproto",
+    "version": "1.3.2",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/wsproto/1.3.2/",
+    "copyleft": false
+  },
+  {
+    "name": "xmltodict",
+    "version": "1.0.4",
+    "license": "MIT",
+    "pypi": "https://pypi.org/project/xmltodict/1.0.4/",
+    "copyleft": false
+  },
+  {
+    "name": "yarl",
+    "version": "1.25.1",
+    "license": "Apache-2.0",
+    "pypi": "https://pypi.org/project/yarl/1.25.1/",
+    "copyleft": false
+  }
+]

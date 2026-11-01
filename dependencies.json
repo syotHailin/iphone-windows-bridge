@@ -1,0 +1,31 @@
+{
+  "schema": 1,
+  "python": "3.13.17",
+  "platform": "win_amd64",
+  "files": [
+    {
+      "path": "vendor/go-ios-v1.3.2.zip",
+      "bytes": 8824605,
+      "sha256": "939c6bcaafed183a92afb9f79cc11b1f935fa6389bfc94d3902e3f52c4dff3fe",
+      "source": "https://github.com/danielpaulus/go-ios/releases/tag/v1.3.2"
+    },
+    {
+      "path": "vendor/python-3.13.17-embed-amd64.zip",
+      "bytes": 11441267,
+      "sha256": "9e35319bffedab8b36ad44d8f377cb4f1733bcec257a0b6d04d94f01486ddb38",
+      "source": "https://www.python.org/ftp/python/3.13.17/python-3.13.17-embed-amd64.zip"
+    },
+    {
+      "path": "vendor/python-packages.zip",
+      "bytes": 77551249,
+      "sha256": "c5cf564340d3c5214d62e7417046405d3f04421d6b1b94f6e11c4d239d6edf38",
+      "source": "https://pypi.org/"
+    },
+    {
+      "path": "vendor/WebDriverAgent-13.2.0-no-dsym.ipa",
+      "bytes": 730294,
+      "sha256": "78ea6cb77175279feec337238a9c8bec22ada928f9ff8239b54154854927c95c",
+      "source": "https://deviceboxhq.com/WebDriverAgentRunner-13.2.0.zip"
+    }
+  ]
+}
